@@ -1,7 +1,7 @@
 # Accepted papers on top conferences
 This repository collects the paper lists from diverse AI related top conferences. The conferences are chosen according to the recommendation from [China Computer Federation (CCF)](./CCF2022.pdf), all of which are in the A class. 
 
-Other conferences concerned machine learning & deep learning, are also of high quality and may not included by CCF, such as ICLR, PMLR, etc. Some of them are collected as well. 
+Other conferences concerned machine learning & deep learning, are also of high quality and may not be included by CCF, such as ICLR, PMLR, etc. Some of them are collected as well. 
 
 Contributions for supplement or corrections are welcomed.
 
